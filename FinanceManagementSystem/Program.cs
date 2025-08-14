@@ -8,9 +8,10 @@ namespace FinanceManagementSystem
 {
         public class Program
         {
-            public static void Main()
-            {
-                new FinanceApp().Run();
-            }
+ static void Main(string[] args)
+        {
+            var app = new FinanceApp();
+            app.Run();
+        }
         }
 }
