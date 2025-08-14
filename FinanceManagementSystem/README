@@ -2,13 +2,13 @@
 
 A simple console-based finance management application for tracking transactions and calculating balances.
 
-## Requirements
+# Requirements
 
 - Windows OS
 
 - .NET Framework 4.7.2 (comes pre-installed on most Windows versions)
 
-- Command Prompt or PowerSh
+- Command Prompt or PowerShell
 
 # Project Structure
 
