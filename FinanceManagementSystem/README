@@ -1,0 +1,63 @@
+# Finance Management System
+
+A simple console-based finance management application for tracking transactions and calculating balances.
+
+## Requirements
+
+- Windows OS
+
+- .NET Framework 4.7.2 (comes pre-installed on most Windows versions)
+
+- Command Prompt or PowerSh
+
+# Project Structure
+
+- FinanceManagementSystem/
+  ├── Accounts/
+  ├── Interfaces/
+  ├── Models/
+  ├── Processors/
+  ├── FinanceApp.cs
+  ├── Program.cs
+  ├── FinanceManagementSystem.csproj
+  └── bin/
+  └── Debug/
+  └── FinanceManagementSystem.exe \*
+
+# How to Run the Project
+
+### 1. Clone or download this repository.
+
+### 2. Open Command Prompt and navigate to the main project folder:
+
+\*cd "C:\Users\<YourName>\Desktop\dcit318-assignment3-11116390\FinanceManagementSystem"
+
+-
+
+### 3. Build the project (if not already built):
+
+msbuild FinanceManagementSystem.csproj
+
+### 4. Navigate to the compiled output folder:
+
+_cd bin\Debug_
+
+### 5. Run the application:
+
+_FinanceManagementSystem.exe _
+
+## Features
+
+- Add transactions with ID, amount, and description.
+
+- View all transactions.
+
+- Calculate the current balance.
+
+- Simple text-based menu system.
+
+# Notes
+
+- This project is built using .NET Framework 4.7.2 (not .NET Core).
+
+- If you want to run using dotnet run, you need to upgrade to .NET 6/7 and convert to SDK-style project.
