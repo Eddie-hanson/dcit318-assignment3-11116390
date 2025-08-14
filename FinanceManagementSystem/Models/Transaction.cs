@@ -1,12 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-
-    namespace FinanceManagementSystem.Models
+namespace FinanceManagementSystem.Models
+{
+    public class Transaction
     {
-    // Ensure the project is targeting .NET 5.0 or later to support 'record' types.
-    public record Transaction(int Id, DateTime Date, decimal Amount, string Category);
+        public int Id { get; set; }
+        public DateTime Date { get; set; }
+        public decimal Amount { get; set; }
+        public string Description { get; set; }
+        public string Category { get; set; } // NEW property for processors
+
+        public Transaction(int id, DateTime date, decimal amount, string description, string category)
+        {
+            Id = id;
+            Date = date;
+            Amount = amount;
+            Description = description;
+            Category = category;
+        }
     }
+}
