@@ -1,0 +1,7 @@
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\bin\Debug\healthcareManagementSystem.exe.config
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\bin\Debug\healthcareManagementSystem.exe
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\bin\Debug\healthcareManagementSystem.pdb
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\obj\Debug\healthcareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\obj\Debug\healthcareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\obj\Debug\healthcareManagementSystem.exe
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\healthcareManagementSystem\obj\Debug\healthcareManagementSystem.pdb
