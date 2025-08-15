@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InventoryRecordSystem
+namespace SchoolGradingSystem
 {
     internal class Program
     {
@@ -13,4 +13,3 @@ namespace InventoryRecordSystem
         }
     }
 }
-

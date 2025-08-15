@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FB2354B-1FF7-4A5E-833D-2E9D4E29416D}</ProjectGuid>
+    <ProjectGuid>{6B0ED2FD-202D-47DC-B254-E622AFB90BD5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InventoryRecordSystem</RootNamespace>
-    <AssemblyName>InventoryRecordSystem</AssemblyName>
+    <RootNamespace>SchoolGradingSystem</RootNamespace>
+    <AssemblyName>SchoolGradingSystem</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
