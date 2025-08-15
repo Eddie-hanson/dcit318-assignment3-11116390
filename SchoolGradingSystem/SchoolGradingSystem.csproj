@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
+     <Compile Include="Models\Student.cs" />
+    <Compile Include="Exceptions\StudentMissingFieldException.cs" />
+    <Compile Include="Services\StudentResultProcessor.cs" />
+    <Compile Include="Exceptions\InvalidScoreFormatException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
