@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+  <Compile Include="Properties\AssemblyInfo.cs" />
+  <Compile Include="Program.cs" />
+  <Compile Include="App\InventoryApp.cs" />
+  <Compile Include="Interfaces\IInventoryEntity.cs" />
+  <Compile Include="Models\InventoryItem.cs" />
+  <Compile Include="Services\InventoryLogger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\obj\Debug\InventoryRecordSystem.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\obj\Debug\InventoryRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\bin\Debug\InventoryRecordSystem.exe.config
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\bin\Debug\InventoryRecordSystem.exe
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\bin\Debug\InventoryRecordSystem.pdb
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\obj\Debug\InventoryRecordSystem.exe
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\InventoryRecordSystem\obj\Debug\InventoryRecordSystem.pdb
