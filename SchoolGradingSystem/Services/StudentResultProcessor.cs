@@ -22,13 +22,12 @@ namespace SchoolGradingSystem.Services
                     lineNumber++;
                     var parts = line.Split(',');
 
-                    // Check for missing fields
+                    // Validate number of fields
                     if (parts.Length != 3)
                         throw new StudentMissingFieldException($"Line {lineNumber}: Missing required field(s).");
 
                     // Parse student ID
-                    int id;
-                    if (!int.TryParse(parts[0].Trim(), out id))
+                    if (!int.TryParse(parts[0].Trim(), out int id))
                         throw new InvalidScoreFormatException($"Line {lineNumber}: Invalid ID format.");
 
                     // Parse full name
@@ -37,11 +36,9 @@ namespace SchoolGradingSystem.Services
                         throw new StudentMissingFieldException($"Line {lineNumber}: FullName is missing.");
 
                     // Parse score
-                    int score;
-                    if (!int.TryParse(parts[2].Trim(), out score))
+                    if (!int.TryParse(parts[2].Trim(), out int score))
                         throw new InvalidScoreFormatException($"Line {lineNumber}: Invalid score format.");
 
-                    // Add valid student to list
                     students.Add(new Student(id, fullName, score));
                 }
             }

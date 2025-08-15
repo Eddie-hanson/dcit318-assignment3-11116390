@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Collections.Generic;
 using SchoolGradingSystem.Models;
 using SchoolGradingSystem.Services;
 using SchoolGradingSystem.Exceptions;
-using System.Collections.Generic;
 
 namespace SchoolGradingSystem
 {
@@ -11,15 +11,19 @@ namespace SchoolGradingSystem
     {
         static void Main(string[] args)
         {
-            string inputFilePath = "/students.txt";
-            string outputFilePath = "report.txt";
+            string inputFilePath = @"C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\students.txt" ; 
+            string outputFilePath = @"C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\report.txt";  
 
             var processor = new StudentResultProcessor();
 
             try
             {
+                // Read students from file
                 List<Student> students = processor.ReadStudentsFromFile(inputFilePath);
+
+                // Write report to file
                 processor.WriteReportToFile(students, outputFilePath);
+
                 Console.WriteLine("Report generated successfully!");
             }
             catch (FileNotFoundException ex)

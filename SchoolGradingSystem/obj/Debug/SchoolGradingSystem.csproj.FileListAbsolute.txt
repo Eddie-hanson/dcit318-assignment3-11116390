@@ -5,3 +5,4 @@ C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\bin\
 C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\bin\Debug\SchoolGradingSystem.pdb
 C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.exe
 C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.pdb
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.exe.config
