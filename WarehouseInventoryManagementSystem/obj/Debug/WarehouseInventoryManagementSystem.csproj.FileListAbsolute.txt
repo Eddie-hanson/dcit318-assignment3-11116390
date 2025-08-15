@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\bin\Debug\WarehouseInventoryManagementSystem.exe.config
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\bin\Debug\WarehouseInventoryManagementSystem.exe
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\bin\Debug\WarehouseInventoryManagementSystem.pdb
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.exe
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.pdb
+C:\Users\Mr Hanson\Desktop\dcit318-assignment3-11116390\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.exe.config
